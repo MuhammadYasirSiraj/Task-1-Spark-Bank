@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.nav h1 {
+    width: 100%;
+    background-color: darkgreen;
+    color: white;
+    font-size: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.bg{
+    background-image: url('Bank-Manager.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.bg .center {
+    text-align: center;
+}
+
+.operations .btn{
+    background-color: goldenrod;
+    color: white;
+    border-color: gold;
+    text-align: center;
+    margin-top: 85px;
+    padding: 20px;
+    width: 40%;
+    object-fit: contain;
+    font-size: 22px;
+    font-weight: 900;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+}
+

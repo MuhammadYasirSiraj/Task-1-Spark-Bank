@@ -1,0 +1,14 @@
+
+
+.footer {
+    background-color: green;
+    height: 15vh;
+}
+
+.footer p{
+    font-family: 'poppins', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: 300;
+    color: white;
+}
+
